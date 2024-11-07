@@ -88,7 +88,7 @@ This will launch the game window where you can start playing.
   For any questions or contributions, feel free to contact me:
 
    - Email: vaishnavi88670@gmail.com
-   - LinkedIn: http://www.linkedin.com/in/vaishnavi-b-
+   - LinkedIn: www.linkedin.com/in/vaishnavi-b-770b8a25b
 
 
 
