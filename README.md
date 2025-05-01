@@ -29,7 +29,7 @@ The game uses graphical elements and basic animation to render the track, vehicl
 ## How to Use
 1. Clone the repository
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/race-game.git
+git clone https://github.com/Vaishbvaish/Race-Game/tree/main?tab=readme-ov-file
 cd race-game
 
 2. Install Dependencies
@@ -70,7 +70,7 @@ This will launch the game window where you can start playing.
    - Ensure you have the necessary compiler or interpreter for the chosen language (C++ compiler, Python interpreter, etc.).
    - Install required libraries (OpenGL, pygame, etc.).
   2.Clone the Repository:
-       git clone https://github.com/yourusername/race-game.git
+     https://github.com/Vaishbvaish/Race-Game/tree/main?tab=readme-ov-file
        cd race-game
   3.Run the Setup: Follow the setup instructions in the "How to Use" section based on your development environment.
 
