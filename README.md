@@ -1,7 +1,8 @@
-# Race Game
+## Race Game
 The Race Game is a computer graphics-based game where players control a car to race on a track. 
 The game uses graphical elements and basic animation to render the track, vehicles, and other game components.
-# Table of Contents
+
+## Table of Contents
 1.Project Overview
 2.Technologies Used
 3.Features
@@ -10,6 +11,7 @@ The game uses graphical elements and basic animation to render the track, vehicl
 6Installation
 7.Future Enhancements
 8.License
+
 ## Project Overview
  The Race Game simulates a racing experience where players control a car on a race track using computer graphics techniques.The game features basic animations, collision detection, and dynamic updates to create a smooth and fun racing experience.
 
